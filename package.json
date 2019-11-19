@@ -1,0 +1,8 @@
+{
+  "name": "hygen-templates-for-cra",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:guivazcabral/hygen-templates-for-cra.git",
+  "author": "Guilherme Cabral <eu@guilhermecabral.net>",
+  "license": "MIT"
+}
